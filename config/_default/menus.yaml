@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 8a69decd-4c16-4904-b2a7-cd4b29ade1a3
+  name: 2.009 PRODUCT ENGINEERING PROCESS
+  pageRef: /external-resources/2009-product-engineering-process_8a69decd-4c16-4904-b2a7-cd4b29ade1a3
+  weight: 10
+- identifier: c93ece59-f3a9-49aa-b07c-05ad1e516c9a
+  name: 2.S009 Explorations in Product Design
+  pageRef: /external-resources/2s009-explorations-in-product-design_c93ece59-f3a9-49aa-b07c-05ad1e516c9a
+  weight: 20
